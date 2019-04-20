@@ -17,3 +17,11 @@ end
 def using_shift(array)
   array.shift()
 end
+
+def shift_with_arga(array)
+  array.shift(2)
+end
+
+def using_concat(array_one, arrray_two)
+  array_one.concat(array_two)
+end
