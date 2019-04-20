@@ -3,5 +3,11 @@ def using_push(array, string)
 end
 
 def unshift(array, string)
-  array,unshift(string)
+  array.unshift(string)
 end
+
+def using_pop(array)
+  array.pop()
+end
+
+def 
